@@ -6,4 +6,5 @@ Ejemplo5
 
 Objetivos:
 -Buscar capital 
--Preparar clases antes del lunes
+-Preparar clases antes del lunes.
+-Sacar matricula de honor
