@@ -3,3 +3,7 @@ Ejemplo2
 Ejemplo3
 Ejemplo4
 Ejemplo5
+
+Objetivos:
+-Buscar capital 
+-Preparar clases antes del lunes
