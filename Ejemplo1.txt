@@ -3,6 +3,10 @@ Ejemplo2
 Ejemplo3
 Ejemplo4
 Ejemplo5
+
+Tareas 2025
+-hacer la compra
+
 Recursos 2025
 -2 coches
 
@@ -10,3 +14,4 @@ Objetivos:
 -Buscar capital 
 -Preparar clases antes del lunes.
 -Sacar matricula de honor
+-Comer fruta
